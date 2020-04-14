@@ -1,0 +1,2 @@
+# github.com/ffoknevirk/knowledge_mod v1.0.2
+github.com/ffoknevirk/knowledge_mod
